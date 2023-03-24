@@ -1,0 +1,15 @@
+@import "../styles/header.css";
+
+.container-1{
+    color:#b65794;
+    text-align:center;
+    align-items:center;
+    font-size:1.5em;
+}
+
+.footer{
+    background-color: #b4abcb;
+    color:white;
+    font-size:1.5em;
+    text-align:center;
+  }

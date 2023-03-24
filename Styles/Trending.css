@@ -1,0 +1,29 @@
+@import "../styles/header.css";
+.row-1{
+ padding-left:25em;
+}
+.row-1 h1{
+    margin-top:2em;
+    color: #9a6c94;
+}
+ 
+.row-1 .col-1{
+    width:50%;
+    display:flex;
+    margin:5em 0 0 0;
+    border:5px solid black;
+}
+.row-1 .col-1 .img-1 img{
+    width:25vw;
+    padding-right:2em;
+}
+.text-1 a, .text-1 a:hover{
+    color: #b65794;
+}
+ 
+.footer{
+    background-color: #b4abcb;
+    color:white;
+    font-size:1.5em;
+    text-align:center;
+  }
