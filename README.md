@@ -6,7 +6,7 @@ Live link:
 
 https://shreyateja.github.io/BLOG-WEBSITE/ [github]
 
-https://celebrated-dragon-7c71dc.netlify.app  [netlify-hosting]
+staytunedblogwebsite.netlify.app  [netlify-hosting]
 
 ## Specifications of this Website:
 * Have a blog-specific editor.
