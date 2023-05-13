@@ -2,7 +2,7 @@
 STAY TUNED BLOCK WEBSITE IS A DYNAMIC AND INTERACTIVE WEBSITE.
 This project is a scaled-down version of a live blogging platform. The implementation aims to be straightforward and devoid of unnecessary dependencies. A blog website allows users to opine their thoughts  and comment on anything and everything. 
 
-Live: https://shreyateja.github.io/BLOG-WEBSITE/
+Live link: https://shreyateja.github.io/BLOG-WEBSITE/
 
 ## Specifications of this Website:
 * Have a blog-specific editor.
