@@ -6,7 +6,7 @@ Live link:
 
 https://shreyateja.github.io/BLOG-WEBSITE/ [github]
 
-staytunedblogwebsite.netlify.app  [netlify-hosting]
+https://staytunedblogwebsite.netlify.app/ [netlify-hosting]
 
 ## Specifications of this Website:
 * Have a blog-specific editor.
